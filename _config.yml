@@ -1,10 +1,10 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: Modified Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Tuan Anh Pham"
+  email: "pat25bk@gmail.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
