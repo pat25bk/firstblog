@@ -1,3 +1,8 @@
+---
+layout: post
+title: 2021-03-09-Wordpress-vs-Jekyll.md
+---
+
 # WORDPRESS VS JEKYLL
 Differences between Wordpress and Jekyll
 
@@ -11,8 +16,3 @@ So, what the differences between the Wordpress and Jekyll?
 
 ## The main distinction
 The primary difference between them is that WordPress is used for generating  dynamic websites while Jekyll is for Static ones
-
----
-layout: post
-title: 2021-03-09-Wordpress-vs-Jekyll.md
----
